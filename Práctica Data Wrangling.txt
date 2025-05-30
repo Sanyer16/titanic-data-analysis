@@ -1,0 +1,20 @@
+# Práctica Data Wrangling
+Parte 1: Manejo de datos con Pandas
+
+a- Carga el dataset en un DataFrame de Pandas y muestra las primeras 5 filas.
+
+b- Muestra un resumen estadístico de las columnas numéricas del DataFrame.
+
+c- Cuenta cuántos pasajeros sobrevivieron y cuántos no sobrevivieron.
+
+d- Filtra el DataFrame para mostrar solo a los pasajeros de primera clase.
+
+e- *Calcula la edad promedio de los pasajeros de cada clase. Usa groupby() para agrupar por clase y calcular la media de la columna Age.*
+
+f- *Encuentra la cantidad de pasajeros por género. Usa groupby() para contar cuántos hombres y mujeres hay.*
+
+g- Encuentra el pasajero más joven y el más viejo del dataset. Muestra su información completa.
+
+h- Crea un nuevo dataset que se llame DatosGenerales y solo tenga el id, el nombre, el sexo y la edad de los pasajeros.
+
+i- Propon 2 formas adicionales de explorar los datos
